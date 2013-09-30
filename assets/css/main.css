@@ -19,7 +19,7 @@ p{
 	text-align:center
 	}
 a{
-	color:#3bc492;
+	color:#666;
 	word-wrap:break-word; -webkit-transition:color 
 	.1s ease-in,background 
 	.1s ease-in;-moz-transition:color 
@@ -33,7 +33,7 @@ a{
 	.1s ease-in
 	}
 a:hover,a:focus{
-	color:#c0392b;
+	color:#ff8f00;
 	text-decoration:none;outline:0
 	}
 a:before,a:after{
@@ -149,6 +149,8 @@ hr{
 	.service-line{border-bottom:3px solid transparent}
 	.service-line:hover{border-bottom:3px solid #f7941d;background-color:#f2f2f2
 	}
+	.supporting {background-color:#f2f2f2}
+	.block {float: right;}
 #chartwrap{
 	width:100%;
 	text-align:center

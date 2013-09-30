@@ -77,6 +77,7 @@ ul{
 		.gn-search::-moz-placeholder{color:#fff}.no-touch 
 		.gn-menu li.gn-search-item:hover 
 		.gn-search:-ms-input-placeholder{color:#fff}
+		.gn-belief:
 		.gn-menu-main a
 		.gn-icon-search{position:absolute;top:0;left:0;height:60px}
 		.gn-icon::before{display:inline-block;width:60px;text-align:center;
@@ -96,15 +97,18 @@ ul{
 		.gn-icon-mobile::before{content:"\e013"}.gn-icon-laptop::before{content:"\e014"}
 		.gn-icon-clock::before{content:"\e015"}.gn-icon-fire::before{content:"\e016"}
 		.gn-icon-lab::before{content:"\e017"}.gn-icon-bars::before{content:"\e018"}
+		.gn-icon-lightbulb::before{content:"\e0eb"}.gn-icon-bars::before{content:"\f0eb"}
 		.gn-icon span{width:0;height:0;display:block;overflow:hidden}
 		.gn-icon-menu::before{
 			margin-left:-15px;
 			vertical-align:-2px;
 			width:30px;height:3px;
 			background:#fff;
-			box-shadow:0 3px #2f2f2f,0 -6px white,0 -9px #2f2f2f,0 -12px #fff;content:''}.no-touch 
+			box-shadow:0 3px #2f2f2f,0 -6px white,0 -9px #2f2f2f,0 -12px #fff;content:''}
+			.no-touch 
 			.gn-icon-menu:hover::before,.no-touch 
-			.gn-icon-menu.gn-selected:hover::before{background:#fff;box-shadow:0 3px #8e7557,0 -6px white,0 -9px #8e7557,0 -12px #fff}.gn-icon-menu.gn-selected:
+			.gn-icon-menu.gn-selected:hover::before{background:#fff;box-shadow:0 3px #f39700,0 -6px white,0 -9px #f39700,0 -12px #fff}
+			.gn-icon-menu.gn-selected:
 			:before{background:#fff;box-shadow:0 3px #2f2f2f,0 -6px white,0 -9px #2f2f2f,0 -12px #fff}
 			.gn-menu-wrapper.gn-open-all,
 			.gn-menu-wrapper.gn-open-part{
