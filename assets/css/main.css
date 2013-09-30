@@ -122,7 +122,7 @@ hr{
 	margin-top:50px;
 	padding-top:40px;
 	padding-bottom:60px;
-	text-align:left
+	text-align:center;
 	}
 #footerwrap h3{
 	font-size:28px;color:#fff
@@ -137,20 +137,19 @@ hr{
 	color:#fff;font-size:18px
 	}
 	.about,.services,.company;.support{padding-top:40px;text-align:center}
-	.about h3{font-size:35px}
+	.about h3{font-size:35px;text-align:center}
 	.about h4{font-size:20px;text-align:left}
 	.about h5{font-size:14px;color:#bebdbd;font-weight:700}
 	.about,.services,.company,.support p{text-align:left}
-	.services h3{font-size:35px;font-weight:700}
+	.services h3{font-size:35px;font-weight:700;text-align:center}
 	.services h4{font-size:25px}
-	.company h3{font-size:35px;font-weight:700}
+	.company h3{font-size:35px;font-weight:700;text-align:center}
 	.company h4{font-size:25px}
 	.company li: {font-size:11px;text-align:left;color: #f7941d;}
 	.service-line{border-bottom:3px solid transparent}
 	.service-line:hover{border-bottom:3px solid #f7941d;background-color:#f2f2f2
 	}
-	.supporting {background-color:#f2f2f2}
-	.block {float: right;}
+
 #chartwrap{
 	width:100%;
 	text-align:center
