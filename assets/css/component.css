@@ -88,7 +88,7 @@ ul{
 		.gn-icon-earth::before{content:"\e004"}.gn-icon-cog::before{content:"\e006"}
 		.gn-icon-search::before{content:"\e005"}.gn-icon-download::before{content:"\e007"}
 		.gn-icon-photoshop::before{content:"\e001"}.gn-icon-illustrator::before{content:"\e002"}
-		.gn-icon-archive::before{content:"\e00d"}.gn-icon-article::before{content:"\e003"}
+		.gn-icon-clock ::before{content:"\e00d"}.gn-icon-article::before{content:"\e003"}
 		.gn-icon-pictures::before{content:"\e008"}.gn-icon-videos::before{content:"\e009"}
 		.gn-icon-home::before{content:"\e00a"}.gn-icon-newspaper::before{content:"\e00b"}
 		.gn-icon-pencil::before{content:"\e00c"}.gn-icon-droplet::before{content:"\e00e"}
