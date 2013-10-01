@@ -223,6 +223,10 @@ hr{
 	.btn-theme{color:#fff;background-color:#f7941d;padding-left:40px;padding-right:40px;padding-bottom:10px;padding-top:10px;font-weight:700;border-radius:3px}
 	.btn-theme:hover{cursor:pointer;color:#fff;background-color:#766148}
 
+#social-profiles ul
+	.centerUl li ｛float:left;width:25px;｝
+	.centerUl li a i {text-decoration:none; color: black;opacity: 0.5;-webkit-transition: all 0.4s ease-in-out;-moz-transition: all 0.4s ease-in-out;-o-transition: all 0.4s ease-in-out;transition: all 0.4s ease-in-out;}
+#social-profiles ul.centerUl li a:hover i{color:black;opacity: 1;}
 
 	/**********************  THEME COLORS ***********************/
 		.main-color{

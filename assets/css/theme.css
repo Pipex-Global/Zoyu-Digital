@@ -11,7 +11,9 @@ body {
 @media (max-width: 979px) {
 	body { padding-top: 0 !important; }
 }
+a{ color:#ff8500;}
 a:hover {
+	color:#c86800;
 	text-decoration: none;
 }
 input[type="text"], 
@@ -21,6 +23,10 @@ textarea {
 	font-family: 'Lato', Helvetica;
 }
 
+.modal-header{
+	background-color:#ffffff;
+	color:#333
+	}
 /* Navbar
 -------------------------------------------------- */
 body.pull_top {
@@ -188,6 +194,7 @@ header {
 .f14 {
     font-size: 14px;
 }
+
 .means p {
     line-height: 32px;
 }
