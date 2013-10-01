@@ -243,7 +243,38 @@ hr{
 		.color-white:hover{
 			color:rgba(250, 250, 250 , 1);
 		}
-		
+	
+	.orange a{
+	color:#ff8500;
+	word-wrap:break-word; -webkit-transition:color 
+	.1s ease-in,background 
+	.1s ease-in;-moz-transition:color 
+	.1s ease-in,background 
+	.1s ease-in;-ms-transition:color 
+	.1s ease-in,background 
+	.1s ease-in;-o-transition:color 
+	.1s ease-in,background 
+	.1s ease-in;transition:color 
+	.1s ease-in,background 
+	.1s ease-in
+	}
+	.orange a:hover,a:focus{
+	color:#c86800;
+	text-decoration:none;outline:0
+	}
+	.orange a:before,a:after{
+	-webkit-transition:color 
+	.1s ease-in,background 
+	.1s ease-in;-moz-transition:color 
+	.1s ease-in,background 
+	.1s ease-in;-ms-transition:color 
+	.1s ease-in,background 
+	.1s ease-in;-o-transition:color 
+	.1s ease-in,background 
+	.1s ease-in;transition:color 
+	.1s ease-in,background 
+	.1s ease-in
+	}
 	/********************** /THEME COLORS *************************/
 
 	.gray { 
