@@ -59,6 +59,21 @@ hr{
 .modal-title{
 	color:#fff
 	}
+.show-company{
+	color: #FFFFFF;
+    display: none;
+    font-size: 20px;
+    height: 20px;
+    position: fixed;
+    text-align: center;
+    top: 15px;
+    width: 100%;
+    z-index: 1001;
+}
+@media (max-width: 767px) {
+	.show-company{padding-right: 20px;}
+}
+img{max-width: 100%;}
 #headerwrap{
 	background:url(../img/header-bg.jpg) no-repeat center top;
 	margin-top:-10px;
