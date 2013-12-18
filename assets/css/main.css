@@ -250,7 +250,7 @@ img{max-width: 100%;}
 
 	/**********************  THEME COLORS ***********************/
 		.main-color{
-			color:#f7941e;
+			color:#f15922;
 		}
 		.main-br-color{
 			background-color:#f89406;
@@ -269,7 +269,7 @@ img{max-width: 100%;}
 		}
 	
 	.orange a{
-	color:#ff8500;
+	color:#f15922;
 	word-wrap:break-word; -webkit-transition:color 
 	.1s ease-in,background 
 	.1s ease-in;-moz-transition:color 
@@ -283,7 +283,7 @@ img{max-width: 100%;}
 	.1s ease-in
 	}
 	.orange a:hover,a:focus{
-	color:#c86800;
+	color:#f58220;
 	text-decoration:none;outline:0
 	}
 	.orange a:before,a:after{
