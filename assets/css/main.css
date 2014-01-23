@@ -94,6 +94,7 @@ hr {
 	-ms-filter    : grayscale(0%);
 	-o-filter     : grayscale(0%);
 	filter        : grayscale(0%);
+	filter		  : none;
 }
 
 /**
