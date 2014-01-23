@@ -231,12 +231,14 @@ hr {
  * for career.html
  */
 #career-body {
+	background-color: white;
 }
 #career-panel {
-	padding: 40px 100px;
+	padding         : 40px;
+	background-color: white;
 }
 #career-title {
-
+	margin    : 40px;
 	text-align: center;
 
 }
