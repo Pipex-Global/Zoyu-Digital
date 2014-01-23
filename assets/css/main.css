@@ -231,20 +231,18 @@ hr {
 /**
  * for career.html
  */
-#career-body {
-	background-color: white;
-}
+
 #career-panel {
-	padding         : 40px;
-	background-color: white;
+	padding: 40px 100px;
+
 }
 #career-title {
-	margin    : 40px;
+
 	text-align: center;
 
 }
 #career-title > h1{
-	color: #252528;
+	color: #333;
 	font-style: italic;
 	font-weight: normal;
 }
@@ -259,14 +257,15 @@ hr {
 }
 #career-panel .thumbnail {
 	border : none;
+	background-color: transparent;
 }
 #career-panel .job-list a{
-	color : #ff8500;
+	color : #f15922;
 }
 #career-panel .job-list a:hover,
 		.job-list a:focus {
 
-	color : #c86800;
+	color : #ff8f00;
 }
 #career-panel .job-list span{
 	margin-right : 5px;
