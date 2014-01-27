@@ -233,7 +233,7 @@ hr {
  */
 
 #career-panel {
-	padding: 40px 100px;
+	padding-top : 40px;
 
 }
 #career-title {
@@ -271,5 +271,8 @@ hr {
 	margin-right : 5px;
 }
 
+.modal-footer {
+	text-align: center;
+}
 
 
