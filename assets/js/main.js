@@ -1,5 +1,14 @@
 $(function(){
 
+	// Tooltip on navbar
+
+	// Tooltip on footer links
+	$('#footer').tooltip({
+		selector: 'a[rel="tooltip"]',
+		placement: 'top'
+	});
+
+
 	/**
 	 * ajax load footer
 	 */
